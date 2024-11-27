@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Seal Udokang! 👨‍💻
 
-<img width="1800"  alt="9" src="https://github.com/user-attachments/assets/30af230c-3c93-4d2d-918a-6b634d5863cd">
+<img width="1800" alt="29" src="https://github.com/user-attachments/assets/eb4cb0d6-524b-4095-8afd-8adcb685f865">
 
 
 ## 👨‍💻 About Me
