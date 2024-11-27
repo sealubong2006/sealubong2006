@@ -1,8 +1,6 @@
 # 👋 Hello, I'm Seal Udokang! 👨‍💻
 
-
-![Uploading DALLE2024-11-2716.59.58-AminimalistdigitalartstylebannerfeaturingthenameSealUdokangprominentlyinthecenterwithtech-inspiredtypographysurroundedbysubtle-ezgif.com-webp-to-png-converter.png…]()
-
+<img width="1800"  alt="9" src="https://github.com/user-attachments/assets/30af230c-3c93-4d2d-918a-6b634d5863cd">
 
 
 ## 👨‍💻 About Me
