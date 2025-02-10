@@ -25,7 +25,7 @@ Currently, I'm:
 ## 📂 Recent Projects
 
 - **[Mail-Merge Project](https://github.com/sealubong2006/Mail-Merge-Project.git)**: Automates bulk email customization and sending using Python.
-- **[Turtle Crossing Game](https://github.com/sealubong2006/Turtle-Crossing-game.git)**: A fun Python game featuring player-controlled turtles navigating traffic.
+- **[Flashy French-to-English Flashcard](https://github.com/sealubong2006/flashy-flashcard-project.git)**: A Python GUI Program that allows one to learn french using simple vocabularies accompanied alongside an english translation.
 - **[Coffee Machine Project](https://github.com/sealubong2006/Coffee-Machine-Project.git)**: A Python-based simulation of a coffee vending machine with inventory management.
 
 ## 🔍 I'm Looking For
@@ -36,13 +36,13 @@ Currently, I'm:
 ## 📫 How to reach me
 
 - 💬 Connect with me on [LinkedIn](www.linkedin.com/in/sealudokang).
-- 📧 Email: [seal.udokang@email.com](mailto:seal.udokang@email.com)
+- 📧 Email: [seal.udokang@email.com](mailto:seal.udokang@gmail.com)
 
 ## 💻 Technical Skills
 
 - **Programming Languages**: Python, HTML, CSS, JavaScript (Beginner)
-- **Frameworks & Libraries**: Flask, Django (Learning)
-- **Tools & Platforms**: GitHub, Git, Visual Studio Code, Monzo (Social Banking), Google Pay
+- **Frameworks & Libraries**: Flask(Will soon start learning), Django (Will soon start learning)
+- **Tools & Platforms**: GitHub, Git, Visual Studio Code, Pycharm Community edition
 
 ## 🔑 Core Values
 
