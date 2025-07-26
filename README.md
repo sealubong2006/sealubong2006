@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Seal Udokang! 👨‍💻
 
-<img width="1800" alt="29" src="https://github.com/user-attachments/assets/eb4cb0d6-524b-4095-8afd-8adcb685f865">
+<img width="1584" height="396" alt="Blue and White Simple Designer LinkedIn Banner" src="https://github.com/user-attachments/assets/fd3f1f0c-bd8a-4f3b-bf49-b2b0f9a65a1a" />
+
 
 
 ## 👨‍💻 About Me
@@ -24,9 +25,9 @@ Currently, I'm:
 
 ## 📂 Recent Projects
 
-- **[Mail-Merge Project](https://github.com/sealubong2006/Mail-Merge-Project.git)**: Automates bulk email customization and sending using Python.
+- **[Data-Entry-Automation](https://github.com/sealubong2006/data-entry-automation.git)**: Zillow Web Scraper & Google Form Auto-Filler.
 - **[Flashy French-to-English Flashcard](https://github.com/sealubong2006/flashy-flashcard-project.git)**: A Python GUI Program that allows one to learn french using simple vocabularies accompanied alongside an english translation.
-- **[Coffee Machine Project](https://github.com/sealubong2006/Coffee-Machine-Project.git)**: A Python-based simulation of a coffee vending machine with inventory management.
+- **[Portfolio-Website](https://github.com/sealubong2006/Portfolio-Website.git)**: A responsive personal portfolio website showcasing my web and mobile development projects, built with HTML, and CSS..
 
 ## 🔍 I'm Looking For
 
