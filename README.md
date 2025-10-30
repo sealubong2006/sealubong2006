@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Seal Udokang! 👨‍💻
 
-<img width="1584" height="396" alt="Blue and White Simple Designer LinkedIn Banner" src="https://github.com/user-attachments/assets/fd3f1f0c-bd8a-4f3b-bf49-b2b0f9a65a1a" />
+<img width="2560" height="1440" alt="YouTube Banner - the code  that listens (1)" src="https://github.com/user-attachments/assets/38e9c55d-188d-4f0e-bd70-b43d4b6e3e60" />
 
 
 
