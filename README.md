@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I'm currently diving deep into the world of **Tech and Programming**, with a strong focus on **Software Engineering** **IoT** and **AI**. I’m passionate about learning new technologies and bringing ideas to life through code. 
+I'm currently diving deep into the world of **Tech and Programming**, with a strong focus on **Software Engineering**, **IoT** and **AI**. I’m passionate about learning new technologies and bringing ideas to life through code. 
 
 Currently, I'm:
 
