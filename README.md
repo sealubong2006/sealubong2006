@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I'm currently diving deep into the world of **Tech and Programming**, with a strong focus on **Software Development** and **Cybersecurity**. I’m passionate about learning new technologies and bringing ideas to life through code. 
+I'm currently diving deep into the world of **Tech and Programming**, with a strong focus on **Software Engineering** **IoT** and **AI**. I’m passionate about learning new technologies and bringing ideas to life through code. 
 
 Currently, I'm:
 
@@ -19,7 +19,7 @@ Currently, I'm:
 ## 🚀 Current Projects & Interests
 
 - 🔐 Working towards becoming proficient in **IoT**.
-- 🖥️ Developing projects in **software development**.
+- 🖥️ Developing projects with different tech stacks.
 - 🛠️ Enhancing my **full-stack development** skills.
 - 🎓 Completing my **100 Days of Python Bootcamp** to level up my coding skills.
 
