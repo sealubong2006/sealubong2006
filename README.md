@@ -12,15 +12,15 @@ Currently, I'm:
 
 - 🧑‍🎓 **Studying**: T Level in Digital Production, Design, and Development at **Derby College Joseph Wright Centre**.
 - 💼 **Experience**: Volunteer Sales Assistant at **British Heart Foundation**, applying customer service skills in a fast-paced retail environment.
-- 📚 **Skills**: Python, Full-Stack Development, Mobile Development, Ethical Hacking, and more.
+- 📚 **Skills**: Python, Full-Stack Development, IoT, AI and more.
 - 💡 **Learning**: Aiming for industry placement and apprenticeship opportunities in tech. 
 - 🕹️ **Hobbies**: Chess, programming, reading, football, anime, and hands-on tech projects.
 
 ## 🚀 Current Projects & Interests
 
-- 🔐 Working towards becoming proficient in **ethical hacking**.
+- 🔐 Working towards becoming proficient in **IoT**.
 - 🖥️ Developing projects in **software development**.
-- 🛠️ Enhancing my **full-stack development** and **mobile development** skills.
+- 🛠️ Enhancing my **full-stack development** skills.
 - 🎓 Completing my **100 Days of Python Bootcamp** to level up my coding skills.
 
 ## 📂 Recent Projects
