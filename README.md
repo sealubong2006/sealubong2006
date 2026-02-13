@@ -27,7 +27,7 @@ Currently, I'm:
 
 - **[BlogBox](https://github.com/sealubong2006/Blog-Web-Application.git)**: Blog Web Application.
 - **[Flashy French-to-English Flashcard](https://github.com/sealubong2006/flashy-flashcard-project.git)**: A Python GUI Program that allows one to learn french using simple vocabularies accompanied alongside an english translation.
-- **[Portfolio-Website](https://github.com/sealubong2006/Portfolio-Website.git)**: A responsive personal portfolio website showcasing my web and mobile development projects, built with HTML, and CSS..
+- **[Portfolio-Website](https://sealubong2006.github.io/Professional-Portfolio/)**: A responsive personal portfolio website showcasing my web and mobile development projects, built with HTML, and CSS..
 
 ## 🔍 I'm Looking For
 
