@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Seal Udokang! 👨‍💻
 
-<img width="2560" height="1440" alt="YouTube Banner - the code  that listens (1)" src="https://github.com/user-attachments/assets/38e9c55d-188d-4f0e-bd70-b43d4b6e3e60" />
+<img width="2000" height="600" alt="Purple Modern Technology LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/35201824-c853-4ebc-a19a-e027c67469c1" />
+
 
 
 
