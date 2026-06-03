@@ -29,6 +29,7 @@ I am looking for junior software engineering, apprenticeship, and placement oppo
 | ExamReady | Frontend-only T Level study hub with guides, task pages, past paper resources, FAQs, PDF previews, and theme persistence. | HTML, CSS, Bootstrap, JavaScript | [Repo](https://github.com/sealubong2006/examready) · [Live](https://sealubong2006.github.io/examready/index.html) |
 | Developer Roadmap Validator | Learning tool that compares skills against roadmaps using public API evidence, caching, rate limiting, and PDF reports. | Node.js, Express, EJS, GitHub API, Stack Exchange API, PDFKit | [Repo](https://github.com/sealubong2006/developer-roadmap-validator) · [Live](https://developer-roadmap-validator.onrender.com) |
 | Movie Collection Web App | Flask app for searching TMDB, saving films locally, and ranking a favourite film collection by rating. | Python, Flask, SQLAlchemy, SQLite, WTForms, TMDB API | [Repo](https://github.com/sealubong2006/Movie-Collection-Web-App) |
+| Data Entry Automation | Python project that scrapes listing data and submits address, price, and link details into a Google Form for spreadsheet analysis. | Python, Selenium, BeautifulSoup, Google Forms, Google Sheets | [Repo](https://github.com/sealubong2006/data-entry-automation) |
 
 ## Skills and Tools
 
