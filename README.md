@@ -50,12 +50,12 @@ I am looking for junior software engineering, apprenticeship, and placement oppo
 ## GitHub Stats
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sealubong2006&show_icons=true&theme=github_dark&hide_border=true" alt="Seal Udokang GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sealubong2006&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sealubong2006&theme=github_dark" alt="Seal Udokang GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sealubong2006&theme=github_dark" alt="Most used languages" />
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=sealubong2006&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sealubong2006&theme=github_dark&utcOffset=1" alt="GitHub productive time summary" />
 </p>
 
 ## Recent Activity
