@@ -1,55 +1,74 @@
-# 👋 Hello, I'm Seal Udokang! 👨‍💻
+# Seal Udokang
 
-<img width="2000" height="600" alt="Purple Modern Technology LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/35201824-c853-4ebc-a19a-e027c67469c1" />
+Junior software engineer focused on building practical web apps, API-backed tools, and Python automation projects.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Professional%20Portfolio-06d6a0?style=for-the-badge)](https://linktr.ee/seal_udokang)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Seal%20Udokang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sealudokang/)
+[![Email](https://img.shields.io/badge/Email-sealudokang%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sealudokang@gmail.com)
 
+## About
 
+I am building a portfolio around complete, useful projects rather than isolated snippets. Recent work includes an authenticated household shopping app, a browser-based gym tracker, Express and Flask web apps, study tools, and Python automation projects.
 
-## 👨‍💻 About Me
+I am looking for junior software engineering, apprenticeship, and placement opportunities where I can contribute, learn quickly, and keep improving through real product work.
 
-I'm currently diving deep into the world of **Tech and Programming**, with a strong focus on **Software Engineering**, **IoT** and **AI**. I’m passionate about learning new technologies and bringing ideas to life through code. 
+## Current Focus
 
-Currently, I'm:
+- Building stronger full-stack skills with TypeScript, Next.js, React, Supabase, and Postgres.
+- Improving backend fundamentals with Express, Flask, APIs, authentication, and database-backed projects.
+- Practising automation with Python, Selenium, BeautifulSoup, email workflows, and third-party APIs.
+- Writing clearer READMEs, setup notes, and project documentation so my work is easier to review and maintain.
 
-- 🧑‍🎓 **Studying**: T Level in Digital Production, Design, and Development at **Derby College Joseph Wright Centre**.
-- 💼 **Experience**: Volunteer Sales Assistant at **British Heart Foundation**, applying customer service skills in a fast-paced retail environment.
-- 📚 **Skills**: Python, Full-Stack Development, IoT, AI and more.
-- 💡 **Learning**: Aiming for industry placement and apprenticeship opportunities in tech. 
-- 🕹️ **Hobbies**: Chess, programming, reading, football, anime, and hands-on tech projects.
+## Featured Projects
 
-## 🚀 Current Projects & Interests
+| Project | What it does | Stack | Links |
+| --- | --- | --- | --- |
+| Household Shopping App | Mobile-first shared shopping app with households, sessions, auth, RLS-backed data, and Vercel deployment. | TypeScript, Next.js, React, Supabase, Postgres | [Repo](https://github.com/sealubong2006/household-shopping) · [Live](https://household-shopping.vercel.app) |
+| RepLog Web App | Static strength-training tracker with fixed workout templates, set logging, progression guidance, and IndexedDB storage. | JavaScript, Bootstrap, IndexedDB, GitHub Pages | [Repo](https://github.com/sealubong2006/RepLog-Web-App) · [Live](https://sealubong2006.github.io/RepLog-Web-App/) |
+| BlogBox | Minimal blog app with server-rendered pages, create/read/update/delete routes, and optional image uploads. | Node.js, Express, EJS, Multer | [Repo](https://github.com/sealubong2006/BlogBox) · [Live](https://blogbox-oy51.onrender.com/) |
+| ExamReady | Frontend-only T Level study hub with guides, task pages, past paper resources, FAQs, PDF previews, and theme persistence. | HTML, CSS, Bootstrap, JavaScript | [Repo](https://github.com/sealubong2006/examready) · [Live](https://sealubong2006.github.io/examready/index.html) |
+| Developer Roadmap Validator | Learning tool that compares skills against roadmaps using public API evidence, caching, rate limiting, and PDF reports. | Node.js, Express, EJS, GitHub API, Stack Exchange API, PDFKit | [Repo](https://github.com/sealubong2006/developer-roadmap-validator) · [Live](https://developer-roadmap-validator.onrender.com) |
+| Movie Collection Web App | Flask app for searching TMDB, saving films locally, and ranking a favourite film collection by rating. | Python, Flask, SQLAlchemy, SQLite, WTForms, TMDB API | [Repo](https://github.com/sealubong2006/Movie-Collection-Web-App) |
 
-- 🔐 Working towards becoming proficient in **IoT**.
-- 🖥️ Developing projects with different tech stacks.
-- 🛠️ Enhancing my **full-stack development** skills.
-- 🎓 Completing my **100 Days of Python Bootcamp** to level up my coding skills.
+## Skills and Tools
 
-## 📂 Recent Projects
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,html,css,react,nextjs,nodejs,express,flask,supabase,postgres,sqlite,bootstrap,git,github,vercel" alt="Skills: TypeScript, JavaScript, Python, HTML, CSS, React, Next.js, Node.js, Express, Flask, Supabase, Postgres, SQLite, Bootstrap, Git, GitHub, Vercel" />
+</p>
 
-- **[BlogBox](https://github.com/sealubong2006/Blog-Web-Application.git)**: Blog Web Application.
-- **[Flashy French-to-English Flashcard](https://github.com/sealubong2006/flashy-flashcard-project.git)**: A Python GUI Program that allows one to learn french using simple vocabularies accompanied alongside an english translation.
-- **[Portfolio-Website](https://sealubong2006.github.io/Professional-Portfolio/)**: A responsive personal portfolio website showcasing my web and mobile development projects, built with HTML, and CSS..
+**Frontend:** HTML, CSS, Bootstrap, JavaScript, React, responsive layouts, browser storage.
 
-## 🔍 I'm Looking For
+**Backend:** Node.js, Express, EJS, Flask, server-rendered pages, API integrations, file uploads.
 
-- **Apprenticeship and placement opportunities** in tech, particularly in **software development** and **cybersecurity**.
-- **Collaborative projects** to work on and share knowledge with the community.
+**Databases and auth:** Supabase Auth, Postgres, row-level security, SQLite, SQLAlchemy, IndexedDB.
 
-## 📫 How to reach me
+**APIs and automation:** GitHub API, Stack Exchange API, TMDB API, Selenium, BeautifulSoup, SMTP, Google Forms/Sheets workflows.
 
-- 💬 Connect with me on [LinkedIn](www.linkedin.com/in/sealudokang).
-- 📧 Email: [seal.udokang@email.com](mailto:seal.udokang@gmail.com)
+**Deployment and workflow:** Git, GitHub, GitHub Pages, Vercel, Render, README documentation, lint/typecheck scripts where projects include them.
 
-## 💻 Technical Skills
+## GitHub Stats
 
-- **Programming Languages**: Python, HTML, CSS, JavaScript (Beginner)
-- **Frameworks & Libraries**: Flask(Will soon start learning), Django (Will soon start learning)
-- **Tools & Platforms**: GitHub, Git, Visual Studio Code, Pycharm Community edition
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sealubong2006&show_icons=true&theme=github_dark&hide_border=true" alt="Seal Udokang GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sealubong2006&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
+</p>
 
-## 🔑 Core Values
+<p>
+  <img src="https://streak-stats.demolab.com?user=sealubong2006&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
-- 💡 **Continuous Learning**: I believe in the power of knowledge and constantly seek new ways to improve myself.
-- 🔐 **Security & Integrity**: Prioritizing security in every project I work on, aiming for ethical hacking.
-- 🤝 **Collaboration**: I love connecting with other developers and learning from the community.
+## Recent Activity
 
-Thank you for checking out my profile. Let’s build something awesome together! 👨‍💻✨
+<!--START_SECTION:activity-->
+<!-- This section is updated automatically by GitHub Actions. -->
+<!--END_SECTION:activity-->
+
+## Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sealubong2006&theme=github-dark&hide_border=true" alt="GitHub activity graph" />
+
+## Contact
+
+- Portfolio: [Professional Portfolio](https://linktr.ee/seal_udokang)
+- LinkedIn: [linkedin.com/in/sealudokang](https://www.linkedin.com/in/sealudokang/)
+- Email: [sealudokang@gmail.com](mailto:sealudokang@gmail.com)
