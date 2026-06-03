@@ -1,0 +1,85 @@
+name: Update README activity
+
+on:
+  schedule:
+    - cron: "17 7 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      REPOSITORY: ${{ github.repository }}
+      USERNAME: sealubong2006
+    steps:
+      - name: Refresh recent activity section
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          readme_json=$(gh api "repos/${REPOSITORY}/contents/README.md?ref=main")
+          readme_sha=$(printf '%s' "$readme_json" | jq -r '.sha')
+          printf '%s' "$readme_json" | jq -r '.content' | base64 -d > README.md
+
+          gh api "users/${USERNAME}/events/public?per_page=10" > events.json
+
+          python - <<'PY'
+          import json
+          import re
+          from pathlib import Path
+
+          username = "sealubong2006"
+          repo_root = "https://github.com"
+          events = json.loads(Path("events.json").read_text(encoding="utf-8"))
+
+          def event_line(event):
+              event_type = event.get("type", "Activity")
+              repo = event.get("repo", {}).get("name", "")
+              repo_url = f"{repo_root}/{repo}" if repo else repo_root
+
+              if event_type == "PushEvent":
+                  commits = event.get("payload", {}).get("commits", [])
+                  count = len(commits)
+                  label = "commit" if count == 1 else "commits"
+                  return f"- Pushed {count} {label} to [{repo}]({repo_url})"
+              if event_type == "CreateEvent":
+                  ref_type = event.get("payload", {}).get("ref_type", "item")
+                  return f"- Created {ref_type} in [{repo}]({repo_url})"
+              if event_type == "PullRequestEvent":
+                  action = event.get("payload", {}).get("action", "updated")
+                  pr = event.get("payload", {}).get("pull_request", {})
+                  return f"- {action.title()} pull request [{pr.get('title', repo)}]({pr.get('html_url', repo_url)})"
+              if event_type == "IssuesEvent":
+                  action = event.get("payload", {}).get("action", "updated")
+                  issue = event.get("payload", {}).get("issue", {})
+                  return f"- {action.title()} issue [{issue.get('title', repo)}]({issue.get('html_url', repo_url)})"
+              return f"- Updated [{repo}]({repo_url})"
+
+          lines = []
+          seen = set()
+          for event in events:
+              line = event_line(event)
+              if line not in seen:
+                  lines.append(line)
+                  seen.add(line)
+              if len(lines) == 5:
+                  break
+
+          if not lines:
+              lines = ["- No recent public activity found."]
+
+          readme = Path("README.md").read_text(encoding="utf-8")
+          replacement = "<!--START_SECTION:activity-->\n" + "\n".join(lines) + "\n<!--END_SECTION:activity-->"
+          updated = re.sub(r"<!--START_SECTION:activity-->.*?<!--END_SECTION:activity-->", replacement, readme, flags=re.S)
+          Path("README.md").write_text(updated, encoding="utf-8")
+          PY
+
+          encoded=$(base64 -w 0 README.md)
+          gh api --method PUT "repos/${REPOSITORY}/contents/README.md" \
+            -f message="Update README activity" \
+            -f content="$encoded" \
+            -f sha="$readme_sha"
