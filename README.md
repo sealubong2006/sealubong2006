@@ -61,6 +61,7 @@ I am looking for junior software engineering, apprenticeship, and placement oppo
 ## Recent Activity
 
 <!--START_SECTION:activity-->
+- Created branch in [sealubong2006/Text-Morse-Code-Converter](https://github.com/sealubong2006/Text-Morse-Code-Converter)
 - Updated [l-newbould/introtonlp-365](https://github.com/l-newbould/introtonlp-365)
 - Pushed 0 commits to [sealubong2006/Professional-Portfolio](https://github.com/sealubong2006/Professional-Portfolio)
 - Pushed 0 commits to [sealubong2006/sealubong2006](https://github.com/sealubong2006/sealubong2006)
