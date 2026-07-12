@@ -61,7 +61,7 @@ I am looking for junior software engineering, apprenticeship, and placement oppo
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-- Created branch in [sealubong2006/Text-Morse-Code-Converter](https://github.com/sealubong2006/Text-Morse-Code-Converter)
+- No recent public activity found.
 <!--END_SECTION:activity-->
 
 ## Contribution Graph
