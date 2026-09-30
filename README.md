@@ -8,7 +8,7 @@ Junior software engineer focused on building practical web apps, API-backed tool
 
 ## About
 
-I am building a portfolio around complete, useful projects rather than isolated snippets. Recent work includes an authenticated household shopping app, a browser-based gym tracker, Express and Flask web apps, study tools, and Python automation projects.
+I am building a portfolio around complete, useful projects rather than isolated snippets. My most recent project is Anime Notes, a full-stack anime catalogue and review app with owner-only authentication, deployed on Render with a Supabase Postgres database. Earlier work includes an authenticated household shopping app, a browser-based gym tracker, Express and Flask web apps, study tools, and Python automation projects.
 
 I am looking for junior software engineering, apprenticeship, and placement opportunities where I can contribute, learn quickly, and keep improving through real product work.
 
@@ -17,12 +17,14 @@ I am looking for junior software engineering, apprenticeship, and placement oppo
 - Building stronger full-stack skills with TypeScript, Next.js, React, Supabase, and Postgres.
 - Improving backend fundamentals with Express, Flask, APIs, authentication, and database-backed projects.
 - Practising automation with Python, Selenium, BeautifulSoup, email workflows, and third-party APIs.
+- Learning what it actually takes to ship a project to production — environment variables, hosted Postgres, and deployment configs (Render, Supabase).
 - Writing clearer READMEs, setup notes, and project documentation so my work is easier to review and maintain.
 
 ## Featured Projects
 
 | Project | What it does | Stack | Links |
 | --- | --- | --- | --- |
+| Anime Notes | Anime catalogue and review journal with owner-only login, search/filter/sort, and personal ratings — first project where I built the authentication myself (sessions + bcrypt) instead of using a provider, deployed across Render and Supabase. | Node.js, Express, EJS, PostgreSQL, AniList API | [Repo](https://github.com/sealubong2006/anime-notes) · [Live](https://anime-notes.onrender.com) |
 | Household Shopping App | Mobile-first shared shopping app with households, sessions, auth, RLS-backed data, and Vercel deployment. | TypeScript, Next.js, React, Supabase, Postgres | [Repo](https://github.com/sealubong2006/household-shopping) · [Live](https://household-shopping.vercel.app) |
 | RepLog Web App | Static strength-training tracker with fixed workout templates, set logging, progression guidance, and IndexedDB storage. | JavaScript, Bootstrap, IndexedDB, GitHub Pages | [Repo](https://github.com/sealubong2006/RepLog-Web-App) · [Live](https://sealubong2006.github.io/RepLog-Web-App/) |
 | BlogBox | Minimal blog app with server-rendered pages, create/read/update/delete routes, and optional image uploads. | Node.js, Express, EJS, Multer | [Repo](https://github.com/sealubong2006/BlogBox) · [Live](https://blogbox-oy51.onrender.com/) |
@@ -41,9 +43,9 @@ I am looking for junior software engineering, apprenticeship, and placement oppo
 
 **Backend:** Node.js, Express, EJS, Flask, server-rendered pages, API integrations, file uploads.
 
-**Databases and auth:** Supabase Auth, Postgres, row-level security, SQLite, SQLAlchemy, IndexedDB.
+**Databases and auth:** Supabase Auth, Postgres, row-level security, SQLite, SQLAlchemy, IndexedDB, Express-session and bcrypt-based authentication.
 
-**APIs and automation:** GitHub API, Stack Exchange API, TMDB API, Selenium, BeautifulSoup, SMTP, Google Forms/Sheets workflows.
+**APIs and automation:** GitHub API, Stack Exchange API, TMDB API, AniList API, Selenium, BeautifulSoup, SMTP, Google Forms/Sheets workflows.
 
 **Deployment and workflow:** Git, GitHub, GitHub Pages, Vercel, Render, README documentation, lint/typecheck scripts where projects include them.
 
