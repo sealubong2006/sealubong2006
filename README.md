@@ -63,8 +63,10 @@ I am looking for junior software engineering, apprenticeship, and placement oppo
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-- Pushed 0 commits to [sealubong2006/Professional-Portfolio](https://github.com/sealubong2006/Professional-Portfolio)
+- Pushed 0 commits to [sealubong2006/anime-notes](https://github.com/sealubong2006/anime-notes)
+- Pushed 0 commits to [sealubong2006/sealubong2006](https://github.com/sealubong2006/sealubong2006)
 - Updated [sealubong2006/anime-notes](https://github.com/sealubong2006/anime-notes)
+- Pushed 0 commits to [sealubong2006/Professional-Portfolio](https://github.com/sealubong2006/Professional-Portfolio)
 <!--END_SECTION:activity-->
 
 ## Contribution Graph
