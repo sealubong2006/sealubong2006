@@ -8,22 +8,24 @@ Junior software engineer focused on building practical web apps, API-backed tool
 
 ## About
 
-I am building a portfolio around complete, useful projects rather than isolated snippets. My most recent project is Anime Notes, a full-stack anime catalogue and review app with owner-only authentication, deployed on Render with a Supabase Postgres database. Earlier work includes an authenticated household shopping app, a browser-based gym tracker, Express and Flask web apps, study tools, and Python automation projects.
+I am building a portfolio around complete, useful projects rather than isolated snippets. My most recent project is Our Shared Story, a private, code-protected family photo album built as a TypeScript monorepo with React, Express, PostgreSQL, and Cloudflare R2. Before that I built Anime Notes, a full-stack anime review app with owner-only authentication, deployed on Render with Supabase. Earlier work includes an authenticated household shopping app, a browser-based gym tracker, Express and Flask web apps, study tools, and Python automation projects.
 
 I am looking for junior software engineering, apprenticeship, and placement opportunities where I can contribute, learn quickly, and keep improving through real product work.
 
 ## Current Focus
 
-- Building stronger full-stack skills with TypeScript, Next.js, React, Supabase, and Postgres.
+- Building stronger full-stack skills with TypeScript, React, Express, Next.js, Supabase, and Postgres.
+- Designing secure access without accounts: hashed codes, revocable server-side sessions, rate limiting, signed URLs, and API tests.
 - Improving backend fundamentals with Express, Flask, APIs, authentication, and database-backed projects.
 - Practising automation with Python, Selenium, BeautifulSoup, email workflows, and third-party APIs.
-- Learning what it actually takes to ship a project to production — environment variables, hosted Postgres, and deployment configs (Render, Supabase).
+- Learning what it actually takes to ship a project to production — environment variables, hosted Postgres, and deployment configs (Render, Supabase, Railway), object storage (Cloudflare R2), and backups.
 - Writing clearer READMEs, setup notes, and project documentation so my work is easier to review and maintain.
 
 ## Featured Projects
 
 | Project | What it does | Stack | Links |
 | --- | --- | --- | --- |
+| Our Shared Story | Private family photo album with no accounts: viewing, download, and personal admin codes; an animated 3D photo book; filterable library and timeline; direct-to-R2 uploads with EXIF, HEIC conversion, and WebP variants; expiring share links; and daily backups. Deployment to Railway prepared. | TypeScript, React, Vite, Tailwind, Express, PostgreSQL, Drizzle, Cloudflare R2, Vitest | [Repo](https://github.com/sealubong2006/our-shared-story) |
 | Anime Notes | Anime catalogue and review journal with owner-only login, search/filter/sort, and personal ratings — first project where I built the authentication myself (sessions + bcrypt) instead of using a provider, deployed across Render and Supabase. | Node.js, Express, EJS, PostgreSQL, AniList API | [Repo](https://github.com/sealubong2006/anime-notes) · [Live](https://anime-notes.onrender.com) |
 | Household Shopping App | Mobile-first shared shopping app with households, sessions, auth, RLS-backed data, and Vercel deployment. | TypeScript, Next.js, React, Supabase, Postgres | [Repo](https://github.com/sealubong2006/household-shopping) · [Live](https://household-shopping.vercel.app) |
 | RepLog Web App | Static strength-training tracker with fixed workout templates, set logging, progression guidance, and IndexedDB storage. | JavaScript, Bootstrap, IndexedDB, GitHub Pages | [Repo](https://github.com/sealubong2006/RepLog-Web-App) · [Live](https://sealubong2006.github.io/RepLog-Web-App/) |
@@ -36,18 +38,18 @@ I am looking for junior software engineering, apprenticeship, and placement oppo
 ## Skills and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,html,css,react,nextjs,nodejs,express,flask,supabase,postgres,sqlite,bootstrap,git,github,vercel" alt="Skills: TypeScript, JavaScript, Python, HTML, CSS, React, Next.js, Node.js, Express, Flask, Supabase, Postgres, SQLite, Bootstrap, Git, GitHub, Vercel" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,html,css,react,vite,tailwind,nextjs,nodejs,express,flask,supabase,postgres,sqlite,bootstrap,cloudflare,git,github,vercel" alt="Skills: TypeScript, JavaScript, Python, HTML, CSS, React, Vite, Tailwind CSS, Next.js, Node.js, Express, Flask, Supabase, Postgres, SQLite, Bootstrap, Cloudflare, Git, GitHub, Vercel" />
 </p>
 
-**Frontend:** HTML, CSS, Bootstrap, JavaScript, React, responsive layouts, browser storage.
+**Frontend:** HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, TypeScript, React, Vite, TanStack Query, Motion animations, responsive and accessible layouts, browser storage.
 
-**Backend:** Node.js, Express, EJS, Flask, server-rendered pages, API integrations, file uploads.
+**Backend:** Node.js, Express, EJS, Flask, REST APIs with zod validation, server-rendered pages, API integrations, file uploads, image processing with Sharp.
 
-**Databases and auth:** Supabase Auth, Postgres, row-level security, SQLite, SQLAlchemy, IndexedDB, Express-session and bcrypt-based authentication.
+**Databases and auth:** Supabase Auth, Postgres, Drizzle ORM and migrations, row-level security, code-based access with scrypt hashing and revocable sessions, SQLite, SQLAlchemy, IndexedDB, Express-session and bcrypt-based authentication.
 
 **APIs and automation:** GitHub API, Stack Exchange API, TMDB API, AniList API, Selenium, BeautifulSoup, SMTP, Google Forms/Sheets workflows.
 
-**Deployment and workflow:** Git, GitHub, GitHub Pages, Vercel, Render, README documentation, lint/typecheck scripts where projects include them.
+**Deployment and workflow:** Git, GitHub, GitHub Pages, Vercel, Render, Railway, Cloudflare R2, npm workspaces, Vitest and Supertest, README documentation, lint/typecheck scripts.
 
 ## GitHub Stats
 
