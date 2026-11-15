@@ -1,6 +1,6 @@
 # Seal Udokang
 
-Junior software engineer focused on building practical web apps, API-backed tools, and Python automation projects.
+Software engineer focused on building practical web apps, API-backed tools, and Python automation projects.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Professional%20Portfolio-06d6a0?style=for-the-badge)](https://linktr.ee/seal_udokang)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Seal%20Udokang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sealudokang/)
